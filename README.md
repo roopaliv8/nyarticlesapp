@@ -1,4 +1,4 @@
-NY Times Most Popular 
+NY Times Most Popular Articles
 
 App for shwoing list of articles.
 
